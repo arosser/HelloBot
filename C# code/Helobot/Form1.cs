@@ -187,7 +187,7 @@ namespace Helobot
             }
             else if (message == "stop_song2")
             {
-                this.currentState = new DanceState(this);
+                this.currentState = new Face1(this);
                 label1.Visible = false;
             }
             else if (message.StartsWith("q:"))

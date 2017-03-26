@@ -11,8 +11,8 @@ namespace Helobot
         public DanceState(Form1 form)
             : base(form)
         {
-            this.maxTime = 84;
-            this.form.SetTime(27);
+            this.maxTime = 218;
+            this.form.SetTime(112);
         }
 
         public override void Reset()
