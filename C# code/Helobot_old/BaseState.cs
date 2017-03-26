@@ -17,7 +17,7 @@ namespace Helobot
             this.form = form;
         }
 
-        public virtual void AddTime()
+        public void AddTime()
         {
             time += 0.5f;
             if (time >= maxTime)

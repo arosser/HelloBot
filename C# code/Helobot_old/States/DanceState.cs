@@ -8,8 +8,6 @@ namespace Helobot
 {
     public class DanceState : BaseState
     {
-        float danceInterval = 5.5f;
-
         public DanceState(Form1 form)
             : base(form)
         {
@@ -20,25 +18,6 @@ namespace Helobot
         public override void Reset()
         {
             this.form.SetState(new Face1(form));
-        }
-
-        public override void AddTime()
-        {
-            time += 0.5f;
-            if (time >= maxTime)
-            {
-                time = 0f;
-                Reset();
-            }
-
-            danceInterval += 0.5f;
-            if (danceInterval >= 5.5f)
-            {
-                danceInterval = 0;
-                form.SendSerial("c");
-            }
-
-            
         }
     }
 }

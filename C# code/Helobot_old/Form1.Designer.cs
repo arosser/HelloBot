@@ -62,7 +62,7 @@
             // 
             // serialPort
             // 
-            this.serialPort.PortName = "COM3";
+            this.serialPort.PortName = "COM5";
             // 
             // timer
             // 
@@ -77,7 +77,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(20, 30);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 40);
+            this.label1.Size = new System.Drawing.Size(158, 55);
             this.label1.TabIndex = 14;
             this.label1.Text = "label1";
             this.label1.Visible = false;

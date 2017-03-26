@@ -104,7 +104,7 @@ namespace Helobot
             }
             else if (message == "bye bye hello bot")
             {
-                //Application.Exit();
+                Application.Exit();
             }
             else if (message == "go to sleep")
             {
@@ -120,11 +120,6 @@ namespace Helobot
             {
                 this.currentState = new Face4(this);
                 label1.Visible = false;
-                SendSerial("f");
-            }
-            else if (message == "hello bot")
-            {
-                SendSerial("a");
             }
         }
 
@@ -148,17 +143,6 @@ namespace Helobot
             webBrowser.Document.InvokeScript("create", new object[] { "a5d8f-86fj2-009b3-6781c" });
         }
 
-        public void SendSerial(string message)
-        {
-            try
-            {
-                serialPort.WriteLine(message);
-            }
-            catch
-            {
-            }
-        }
-
         public void MessageReceived(string message, string userID)
         {
             if (message == "face1")
@@ -180,7 +164,6 @@ namespace Helobot
             {
                 this.currentState = new Face4(this);
                 label1.Visible = false;
-                SendSerial("f");
             }
             else if (message == "face5")
             {
@@ -220,7 +203,6 @@ namespace Helobot
                 label1.Text = "Good!";
                 label1.Location = new Point((this.Width - label1.Width) / 2, 30);
                 label1.Visible = true;
-                SendSerial("e");
             }
             else if (message == "Incorrect")
             {
@@ -228,7 +210,6 @@ namespace Helobot
                 label1.Text = "Incorrect...";
                 label1.Location = new Point((this.Width - label1.Width) / 2, 30);
                 label1.Visible = true;
-                SendSerial("f");
             }
             else if (message == "stop_voice")
             {

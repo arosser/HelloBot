@@ -12,3 +12,31 @@ E:\USB\projects\C#\Helobot\Helobot\bin\Debug\AxInterop.WMPLib.dll
 E:\USB\projects\C#\Helobot\Helobot\obj\Debug\Interop.WMPLib.dll
 E:\USB\projects\C#\Helobot\Helobot\obj\Debug\AxInterop.WMPLib.dll
 E:\USB\projects\C#\Helobot\Helobot\obj\Debug\Helobot.csproj.ResolveComReference.cache
+E:\USB\projects\C#\Helobot - Copy\Helobot\bin\Debug\Helobot.exe.config
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Interop.WMPLib.dll
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\AxInterop.WMPLib.dll
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Helobot.csproj.ResolveComReference.cache
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Helobot.exe
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Helobot.pdb
+E:\USB\projects\C#\Helobot - Copy\Helobot\bin\Debug\Helobot.exe
+E:\USB\projects\C#\Helobot - Copy\Helobot\bin\Debug\Helobot.pdb
+E:\USB\projects\C#\Helobot - Copy\Helobot\bin\Debug\Interop.WMPLib.dll
+E:\USB\projects\C#\Helobot - Copy\Helobot\bin\Debug\AxInterop.WMPLib.dll
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Helobot.csprojResolveAssemblyReference.cache
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Helobot.Form1.resources
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Helobot.Properties.Resources.resources
+E:\USB\projects\C#\Helobot - Copy\Helobot\obj\Debug\Helobot.csproj.GenerateResource.Cache
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\bin\Debug\Helobot.exe.config
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Interop.WMPLib.dll
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Helobot.csproj.ResolveComReference.cache
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Helobot.exe
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Helobot.pdb
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\bin\Debug\Helobot.exe
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\bin\Debug\Helobot.pdb
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\bin\Debug\Interop.WMPLib.dll
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Helobot.csprojResolveAssemblyReference.cache
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Helobot.Form1.resources
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Helobot.Properties.Resources.resources
+C:\Users\Serguei\Desktop\Helobot - Copy\Helobot\obj\Debug\Helobot.csproj.GenerateResource.Cache
